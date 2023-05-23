@@ -1,0 +1,4 @@
+Version 0.2
+  -videos und php seiten hinzugefügt
+  -automatische Datenbankerstellung hinzugefügt
+  
